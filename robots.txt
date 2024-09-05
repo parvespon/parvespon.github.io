@@ -1,0 +1,10 @@
+User-Agent: *
+Disallow: 
+
+Sitemap: https://parvespon.github.io/sitemap.html.gz
+Sitemap: https://parvespon.github.io/app/sitemap.html.gz
+Sitemap: https://parvespon.github.io/assets/sitemap.html.gz
+Sitemap: https://parvespon.github.io/css/sitemap.html.gz
+Sitemap: https://parvespon.github.io/includes/sitemap.html.gz
+Sitemap: https://parvespon.github.io/item/sitemap.html.gz
+Sitemap: https://parvespon.github.io/src/sitemap.html.gz
